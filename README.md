@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+<p align='left'>
+  <!-- gmail -->
+  <img src="https://img.shields.io/badge/stoooooping@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</p
+  
 <!--
 **stop0128/stop0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
